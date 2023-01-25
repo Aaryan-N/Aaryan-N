@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 ### Here are some useless stats but I decided to show them 😃
 [![Aaryan's GitHub stats](https://github-readme-stats-ebon-delta.vercel.app/api?username=Aaryan-N&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
