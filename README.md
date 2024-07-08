@@ -18,6 +18,7 @@ I'm Aaryan and I am a student in Australia that is interested in computers, prog
 [![My Github Streak](https://streak-stats.demolab.com/?user=Aaryan-N&theme=cobalt)](https://git.io/streak-stats)
 
 --- 
-![](https://raw.githubusercontent.com/Aaryan-N/Aaryan-N/output/github-contribution-grid-snake-dark.svg)
+
+[![Github Snake](https://raw.githubusercontent.com/Aaryan-N/Aaryan-N/output/github-contribution-grid-snake-dark.svg)
 
 
