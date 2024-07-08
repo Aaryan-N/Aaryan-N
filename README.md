@@ -19,6 +19,6 @@ I'm Aaryan and I am a student in Australia that is interested in computers, prog
 
 --- 
 
-[![Github Snake](https://raw.githubusercontent.com/Aaryan-N/Aaryan-N/output/github-contribution-grid-snake-dark.svg)
+![Github Snake](https://raw.githubusercontent.com/Aaryan-N/Aaryan-N/output/github-contribution-grid-snake-dark.svg)
 
 
