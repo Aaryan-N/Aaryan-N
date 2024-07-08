@@ -1,21 +1,16 @@
-### Hi👋
+### Hi👋 
 
-### Here are some useless stats but I decided to show them 😃
-[![Aaryan's GitHub stats](https://github-readme-stats-ebon-delta.vercel.app/api?username=Aaryan-N&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+I'm Aaryan and I am a student in Australia that is interested in computers, programming and robotics. I am trying my hand at full stack development with projects such as a discord bot (discord.js) with a dashboard built using React and Vite.
 
-[![Aaryan's Top Languages](github-readme-stats-ebon-delta.vercel.app/api/top-langs/?username=Aaryan-N)](https://github.com/anuraghazra/github-readme-stats)
+## Skills <hr>
+[![](https://skillicons.dev/icons?i=js,html,css,cloudflare,discord,bots,discordjs,docker,express,github,githubactions,gradle,gmail,java,md,mongodb,nodejs,npm,react,tailwind,vite,webstorm&theme=dark)](https://skillicons.dev)
 
-<!--
-**Aaryan-N/Aaryan-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Here are some of my stats 😃 <hr>
+[![My GitHub stats](https://github-readme-stats-ebon-delta.vercel.app/api?username=Aaryan-N&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aaryan-N&exclude_repo=Hydra_Website&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aaryan_N&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
