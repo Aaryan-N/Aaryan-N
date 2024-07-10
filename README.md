@@ -1,7 +1,7 @@
 ### Hi there👋
 ## About Me
 ---
-I'm Aaryan, a student in Australia that is interested in computers, programming and robotics. I am trying my hand at full stack development with projects such as a discord bot (discord.js) with a dashboard built using React and Vite.
+I'm Aaryan, a student in Australia that is interested in computers, programming and robotics. I am trying my hand at full stack development with projects such as a discord bot (discord.js) with a dashboard built using Svelte and Vite.
 
 ## Skills 
 ---
