@@ -11,7 +11,7 @@ I'm Aaryan, a student in Australia that is interested in computers, programming 
 ---
 [![My GitHub stats](https://github-readme-stats-ebon-delta.vercel.app/api?username=Aaryan-N&show_icons=true&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aaryan-N&exclude_repo=Hydra_Website&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Aaryan-N&exclude_repo=Fira_Website&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aaryan_N&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
