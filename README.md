@@ -1,7 +1,7 @@
 # Hi there👋
 ## About Me
 ---
-My name is Aaryan, and I am a student in Australia with a passion for computers, programming, and robotics. Currently, I am working on a [Discord bot](https://github.com/Aaryan-N/Fira) coded in JavaScript, with a dashboard created using Next.js and Tailwind CSS. My career aspiration is to become a robotics engineer and to help solve the world's critical problems through engineering!
+I'm Aaryan, a student from Australia with a passion for computers, programming, and robotics. I'm currently developing a [Discord bot](https://github.com/Aaryan-N/Fira) using JavaScript, with a dashboard built on Next.js and Tailwind CSS. My goal is to become a robotics engineer and contribute to solving the world's most pressing challenges.
 
 ## Skills 
 ---
