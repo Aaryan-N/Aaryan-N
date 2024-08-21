@@ -1,7 +1,7 @@
 ### Hi there👋
 ## About Me
 ---
-I'm Aaryan, a student in Australia that is interested in computers, programming and robotics. I am trying my hand at full stack development with projects such as a discord bot (discord.js) with a dashboard built using Svelte and Vite.
+My name is Aaryan, and I am a student in Australia with a passion for computers, programming, and robotics. Currently, I am working on a [Discord bot](https://github.com/Aaryan-N/Fira) coded in JavaScript, with a dashboard created using Next.js and Tailwind CSS. My career aspiration is to become a robotics engineer and help solve the world's most critical problems through engineering!
 
 ## Skills 
 ---
