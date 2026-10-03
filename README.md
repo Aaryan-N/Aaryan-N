@@ -2,7 +2,7 @@
 
 **Mechatronics & Applied Mathematics student at Monash University · Melbourne, Australia**
 
-I build software and electronics, with an interest in robotics and the systems that connect code to the physical world. My projects range from web apps and distributed Discord bots to NFC products and PCB design. I also work with audio, video and lighting in live event environments.
+I build software and electronics, with an interest in robotics and the systems that connect code to the physical world. My projects range from web apps and distributed Discord bots to NFC products and PCB design.
 
 [Website](https://aaryan.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/aaryan-narayan/) · [Email](mailto:aaryan.narayan@outlook.com) · [Résumé](https://aaryan.is-a.dev/Aaryan_Narayan_Resume.pdf)
 
@@ -25,17 +25,14 @@ More about my current work on [my website](https://aaryan.is-a.dev).
 ## Background
 
 - **Monash University · 2026–2031** — studying Mechatronics Engineering and Applied Mathematics.
-- **Sound & Light Concepts · 2024–present** — Event Technology Team Member, setting up, operating and packing down audio and video systems.
 - **BAE Systems · 2024** — engineering work experience exploring aerospace and satellite infrastructure.
 - **CSIRO · 2023** — cyber security work experience investigating unauthorised access and approaches to reducing cyber threats.
-
-Outside of technical projects, I've volunteered in community events and retail, and supported outdoor camp activities.
 
 ## My toolkit
 
 **Software:** TypeScript, JavaScript, Next.js, React, Node.js, Tailwind CSS, Discord.js  
 **Data:** Supabase, MongoDB  
-**Hardware & live events:** NFC, PCB design, EasyEDA, audio, video and lighting systems
+**Hardware:** NFC, PCB design, EasyEDA
 
 ---
 
